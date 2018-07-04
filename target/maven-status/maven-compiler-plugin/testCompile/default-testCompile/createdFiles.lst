@@ -1,0 +1,5 @@
+com\fsene\kata\bankaccount\controllers\test\BankAccountControllerTest.class
+com\fsene\kata\bankaccount\services\test\AccountServiceTest.class
+com\fsene\kata\bankaccount\test\BankAccountApplicationTest.class
+com\fsene\kata\bankaccount\repositories\test\AccountRepositoryTest.class
+com\fsene\kata\bankaccount\services\test\OperationServiceTest.class

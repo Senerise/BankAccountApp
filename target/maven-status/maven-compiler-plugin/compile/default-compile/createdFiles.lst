@@ -1,0 +1,16 @@
+com\fsene\kata\bankaccount\exceptions\AccountNotFoundException.class
+com\fsene\kata\bankaccount\services\OperationService.class
+com\fsene\kata\bankaccount\controllers\BankAccountController.class
+com\fsene\kata\bankaccount\repositories\ClientRepository.class
+com\fsene\kata\bankaccount\services\AccountService.class
+com\fsene\kata\bankaccount\repositories\AccountRepository.class
+com\fsene\kata\bankaccount\BankAccountApplication.class
+com\fsene\kata\bankaccount\services\AccountServiceImpl.class
+com\fsene\kata\bankaccount\util\OperationTypeConverter.class
+com\fsene\kata\bankaccount\exceptions\WithDrawableException.class
+com\fsene\kata\bankaccount\entities\Operation.class
+com\fsene\kata\bankaccount\entities\Account.class
+com\fsene\kata\bankaccount\services\AccountServiceImpl$1.class
+com\fsene\kata\bankaccount\services\OperationServiceImpl.class
+com\fsene\kata\bankaccount\entities\Client.class
+com\fsene\kata\bankaccount\entities\OperationType.class
